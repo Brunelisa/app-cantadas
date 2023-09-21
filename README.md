@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # frase_do_dia
 
 A new Flutter application.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+=======
+# app-cantadas
+Aplicativo criado de acordo com o curso "Desenvolvimento Android e IOS com Flutter", proporcionado pela Udemy.
+>>>>>>> a184de0cb5098d180543563a0186110ec6202df7
